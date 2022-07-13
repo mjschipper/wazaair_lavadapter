@@ -5,6 +5,7 @@
 - After getting a correct fit i started using Blender to add a Lavalier Microphone clip to hold the mics. Then exported to STL for printing.
 
 **WIP:**
+-   Test Magnet hold for both sides of insert.
 -   I need to mirror a copy of one insert to allow for a left/right pair.
 -   Test comfort of having two inserts.
 
